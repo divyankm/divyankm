@@ -12,7 +12,7 @@
 
 <h3 align="left">Data Tools:</h3>
 
-<p align="left">  </a> <a href="https://www.elastic.co/" target="_blank"> <img src="https://github.com/divyankm/divyankm/blob/main/elk%20stack.png" alt="ELK Stack" width="100" height="40"/> </a> <a href="https://opendistro.github.io/for-elasticsearch/" target="_blank"> <img src="https://github.com/divyankm/divyankm/blob/main/od.png" alt="Open Distro" width="40" height="40"/> <a href="https://opendistro.github.io/for-elasticsearch/" target="_blank"> <img src="https://github.com/divyankm/divyankm/blob/main/opensearch.png" alt="Opensearch" width="40" height="40"/> </a> </p>
+<p align="left">  </a> <a href="https://www.elastic.co/" target="_blank"> <img src="https://github.com/divyankm/divyankm/blob/main/elk%20stack.png" alt="ELK Stack" width="100" height="40"/> </a> <a href="https://opendistro.github.io/for-elasticsearch/" target="_blank"> <img src="https://github.com/divyankm/divyankm/blob/main/od.png" alt="Open Distro" width="40" height="40"/> <a href="https://opensearch.org/" target="_blank"><img src="https://github.com/divyankm/divyankm/blob/main/opensearch.png" alt="Opensearch" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Commits:</h3>
 
