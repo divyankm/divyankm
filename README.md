@@ -2,7 +2,7 @@
 
 <h3 align="center">Welcome to my profile!</h3>
 
-#- 🌱 I’m currently working as : **Data Engineer**
+- 🌱 I’m currently working as : **Data Engineer**
 
 ![coding-gif](https://kleene.ai/wp-content/uploads/2020/04/Minoro_No_Gradient_2-2.gif)
 
