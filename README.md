@@ -19,7 +19,5 @@
 <h3 align="left">Commits:</h3>
 
 ![snake gif](https://github.com/divyankm/divyankm/blob/output/github-contribution-grid-snake.gif)
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=divyankm&show_icons=true&locale=en" alt="Divyank" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyankm&show_icons=true&locale=en&layout=compact" alt="Divyank" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=divyankm&show_icons=true&locale=en" alt="Divyank" /></p>
