@@ -91,8 +91,7 @@
 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/> 
-  </a>  
-</p>
+  </a>
 
   <a href="https://httpd.apache.org/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="HTTPD" width="40" height="40"/> 
