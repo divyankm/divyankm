@@ -47,8 +47,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="40" height="40"/> 
   </a>
 
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+  <a href="https://streamlit.io/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="Streamlit" width="40" height="40"/> 
   </a>
 
 </p>
