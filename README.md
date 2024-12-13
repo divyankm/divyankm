@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently working as: **Data & Dev-Ops Engineer**
 - 🌱 Experienced **NOC Engineer**
-- Connect with me: <a href="https://www.linkedin.com/in/divyank-mahalle/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Divyank" height="40" width="40" /></a>
+- 🌱 Founding Engineer: <a href="https://rupeegoals.com/" target="_blank">rupeegoals.com</a>
+
 
 
 <h3 align="left">Tech Stack I am Familiar & Worked on:</h3>
@@ -95,7 +96,12 @@
 
   <a href="https://httpd.apache.org/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="HTTPD" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.terraform.io/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" alt="Terraform" width="40" height="40"/> 
   </a>  
+
 </p>
 
 <h4 align="left">OS & Observablity Tools</h4>
