@@ -29,7 +29,7 @@ Hi, I'm **Divyank Mahalle** — a DevOps Engineer by profession and a fintech bu
 |---------|-------------|
 | 🌐 [rupeegoals.com](https://rupeegoals.com) | Fintech platform — investments, trading tools & analytics |
 | 📊 [analysis.rupeegoals.com](https://analysis.rupeegoals.com) | Stock analysis dashboards — supertrend, breakout, backtests |
-| 🤖 [aiagents.rupeegoals.com](https://aiagents.rupeegoals.com) | AI agents platform powered by Claude |
+| 🤖 [aiagents.rupeegoals.com](https://aiagents.rupeegoals.com) | AI agents platform for ops & trading |
 | 📈 [stats.rupeegoals.com](https://stats.rupeegoals.com) | Live metrics & observability dashboard — Grafana |
 
 ---
