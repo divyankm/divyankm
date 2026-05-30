@@ -103,3 +103,11 @@ Hi, I'm **Divyank Mahalle** — a DevOps Engineer by profession and a fintech bu
 
 - 🔮 [Nifty-50 Future Prediction using ARIMA & Monte Carlo](https://github.com/divyankm/Nifty-50-Future-Prediction-using-Arima) — forecasting NSE index 10 years ahead
 - 📉 [Stock Exchange Data Analysis](https://github.com/divyankm/Stock-Exchange-Data-Analysis) — EDA on NSE indices
+
+---
+
+<p align="center">
+  <a href="https://www.gitanimals.org">
+    <img src="https://render.gitanimals.org/farms/divyankm" width="600" height="300"/>
+  </a>
+</p>
