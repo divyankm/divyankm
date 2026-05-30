@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 💼 **DevOps Engineer** — infra, CI/CD, observability, cloud
-- 📈 **Algo Trader** — live trading systems on NSE/MCX via Zerodha Kite API
 - 🤖 **AI Builder** — building LLM-powered agents for ops & trading
 - 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — wearing all the hats
 
