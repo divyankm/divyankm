@@ -2,9 +2,24 @@
 
 <h1 align="center">Hey, I'm Divyank 👋 — Welcome to my profile!</h1>
 
+<h4 align="center">I build infra that doesn't break... and when it does, I wrote the runbook for it 😄</h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Data+%26+ML+Engineer;Algo+Trader+%7C+Fintech+Builder;Founding+Engineer+%40+RupeeGoals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Data+%26+ML+Engineer;AI+Agent+Builder;Founding+Engineer+%40+RupeeGoals" alt="Typing SVG" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+Hi, I'm **Divyank Mahalle** — a DevOps Engineer by profession and a fintech builder by passion.
+
+- 🛠️ I manage infra, pipelines, and observability stacks — then go home and build more infra for fun
+- 🤖 Currently obsessed with AI agents — deploying LLMs that actually do useful ops work
+- 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — developer, data scientist, infra, and everything in between
+- ☁️ If it runs on a server, I've probably broken it, fixed it, and automated it
+
+> *"At RupeeGoals, my job title is 'Founding Engineer'. My actual job is everything."*
 
 ---
 
@@ -16,14 +31,6 @@
 | 📊 [analysis.rupeegoals.com](https://analysis.rupeegoals.com) | Stock analysis dashboards — supertrend, breakout, backtests |
 | 🤖 [aiagents.rupeegoals.com](https://aiagents.rupeegoals.com) | AI agents platform powered by Claude |
 | 📈 [stats.rupeegoals.com](https://stats.rupeegoals.com) | Live metrics & observability dashboard — Grafana |
-
----
-
-### 👨‍💻 About Me
-
-- 💼 **DevOps Engineer** — infra, CI/CD, observability, cloud
-- 🤖 **AI Builder** — building LLM-powered agents for ops & trading
-- 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — wearing all the hats
 
 ---
 
