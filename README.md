@@ -16,7 +16,7 @@ Hi, I'm **Divyank Mahalle** — a DevOps Engineer by profession and a fintech bu
 
 - 🛠️ I manage infra, pipelines, and observability stacks — then go home and build more infra for fun
 - 🤖 Currently obsessed with AI agents — deploying LLMs that actually do useful ops work
-- 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — developer, data scientist, infra, and everything in between
+- 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — developer, data scientist, infra, and everything in between; wearing all the hats
 - ☁️ If it runs on a server, I've probably broken it, fixed it, and automated it
 
 > *"At RupeeGoals, my job title is 'Founding Engineer'. My actual job is everything."*
