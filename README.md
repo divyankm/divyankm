@@ -1,135 +1,98 @@
-![](https://komarev.com/ghpvc/?username=divyank&color=blue)
+![](https://komarev.com/ghpvc/?username=divyankm&color=blue)
 
-<h1 align="center">Hey, I'm Divyank!!!</h1>
-<h4 align="center">Welcome to my profile!</h4>
+<h1 align="center">Hey, I'm Divyank 👋</h1>
 
-- 🌱 I’m currently working as: **Data & Dev-Ops Engineer**
-- 🌱 Experienced **NOC Engineer**
-- 🌱 Founding Engineer: <a href="https://rupeegoals.com/" target="_blank">rupeegoals.com</a>
-
-
-
-<h3 align="left">Tech Stack I am Familiar & Worked on:</h3>
-
-<h4 align="left">Databases:</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.singlestore.com/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/79943160?s=200&v=4" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.elastic.co/" target="_blank"> 
-    <img src="https://github.com/divyankm/divyankm/blob/main/elk%20stack.png" alt="ELK Stack" width="100" height="40"/> 
-  </a>
-  <a href="https://opendistro.github.io/for-elasticsearch/" target="_blank"> 
-    <img src="https://github.com/divyankm/divyankm/blob/main/opensearch.png" alt="Opensearch" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Data+%26+ML+Engineer;Algo+Trader+%7C+Fintech+Builder;Founding+Engineer+%40+RupeeGoals" alt="Typing SVG" />
 </p>
 
-<h4 align="left">Programming, Scripting Languages & Libraries:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
+---
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
+### 🚀 What I'm Building
 
-  <a href="https://plotly.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/> 
-  </a>
+| Project | Description |
+|---------|-------------|
+| 🌐 [rupeegoals.com](https://rupeegoals.com) | Fintech platform — investments, trading tools & analytics |
+| 📊 [analysis.rupeegoals.com](https://analysis.rupeegoals.com) | Stock analysis dashboards — supertrend, breakout, backtests |
+| 🤖 [aiagents.rupeegoals.com](https://aiagents.rupeegoals.com) | AI agents platform powered by Claude |
 
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="40" height="40"/> 
-  </a>
+---
 
-  <a href="https://streamlit.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="Streamlit" width="40" height="40"/> 
-  </a>
+### 👨‍💻 About Me
 
+- 💼 **DevOps Engineer** — infra, CI/CD, observability, cloud
+- 📈 **Algo Trader** — live trading systems on NSE/MCX via Zerodha Kite API
+- 🤖 **AI Builder** — building LLM-powered agents for ops & trading
+- 🏗️ **Founding Engineer @ [RupeeGoals](https://rupeegoals.com)** — wearing all the hats
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyankm&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyankm&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h4 align="left">Tools:</h4>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> 
-  </a>
-
-  <a href="https://g.co/kgs/gd8HtEf" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colaboratory" width="40" height="40"/> 
-  </a>
-
-  <a href="https://airflow.apache.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/> 
-  </a>  
-
-  <a href="https://about.gitlab.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab" width="40" height="40"/> 
-
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
-  </a>  
-
-  <a href="https://www.ansible.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" alt="Jenkins" width="40" height="40"/> 
-  </a>  
-
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-
-  <a href="https://kubernetes.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="40" height="40"/> 
-  </a>  
-
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/> 
-  </a>
-
-  <a href="https://httpd.apache.org/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="HTTPD" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.terraform.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" alt="Terraform" width="40" height="40"/> 
-  </a>  
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyankm&theme=tokyonight&hide_border=true" />
 </p>
 
-<h4 align="left">OS & Observablity Tools</h4>
-<p align="left">
+---
 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" alt="Windows" width="40" height="40"/> 
-  </a>
+### 🛠️ Tech Stack
 
-  <a href="https://prometheus.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-plain-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com/" target="_blank"> 
-    <img src="https://github.com/divyankm/divyankm/blob/main/grafana.png" alt="Grafana" width="40" height="40"/> 
-  </a>
+<h4>Languages & Libraries</h4>
+<p>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://plotly.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
+  <a href="https://streamlit.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Cloud Providers</h4>
-<p align="left">
-
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/> 
-  </a>
+<h4>DevOps & CI/CD</h4>
+<p>
+  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions"><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/></a>
 </p>
+
+<h4>Cloud & Infra</h4>
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://httpd.apache.org/"><img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" width="40" height="40"/></a>
+</p>
+
+<h4>Observability</h4>
+<p>
+  <a href="https://prometheus.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://grafana.com/"><img src="https://github.com/divyankm/divyankm/blob/main/grafana.png" width="40" height="40"/></a>
+  <a href="https://www.elastic.co/"><img src="https://github.com/divyankm/divyankm/blob/main/elk%20stack.png" width="100" height="40"/></a>
+  <a href="https://opendistro.github.io/for-elasticsearch/"><img src="https://github.com/divyankm/divyankm/blob/main/opensearch.png" width="40" height="40"/></a>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.singlestore.com/"><img src="https://avatars.githubusercontent.com/u/79943160?s=200&v=4" width="40" height="40"/></a>
+</p>
+
+<h4>AI & LLMs</h4>
+<p>
+  <a href="https://www.anthropic.com/"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="Anthropic Claude" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔮 [Nifty-50 Future Prediction using ARIMA & Monte Carlo](https://github.com/divyankm/Nifty-50-Future-Prediction-using-Arima) — forecasting NSE index 10 years ahead
+- 📉 [Stock Exchange Data Analysis](https://github.com/divyankm/Stock-Exchange-Data-Analysis) — EDA on NSE indices
